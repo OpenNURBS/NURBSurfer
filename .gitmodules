@@ -1,0 +1,3 @@
+[submodule "OpenNURBS"]
+	path = OpenNURBS
+	url = https://github.com/OpenNURBS/OpenNURBS
