@@ -1,7 +1,7 @@
-NURBSurfer - OpenGL NURBS-based CAD
+NURBSurfer
 ==========
 
-NURBSurfer is a C++11 / OpenGL graphical user interface for NURBS-based computer-aided drafting. NURBSurfer can
+NURBSurfer is a C++11 / OpenGL NURBS-based CAD GUI. NURBSurfer can
 load OpenNURBS .nrb_geom geometry files and display the models to the screen. NURBSurfer allows users to view, 
 generate and alter models and meshes, view and alter finite-element model field data, load from and save to
 OpenNURBS and industry-standard file formats, and generally access the features provided by the OpenNURBS
