@@ -14,12 +14,23 @@ or questions here on the github issues page.
 
 Prerequisites:
 
-NURBSurfer uses OpenGL and the Simple DirectMedia Layer, or SDL, similar to the Valve platform. You need a 
+NURBSurfer uses OpenGL and the "Simple DirectMedia Layer", or SDL, similar to the Valve platform. You need a 
 graphics card that can support OpenGL, and the SDL libraries installed on your system.
+
+to install SDL:
+
+You can install from the SDL site directly: https://www.libsdl.org
+
+on Ubuntu/Mint Linux you can do:
+
+sudo apt-get install libsdl2-dev libsdl2-gfx-dev libsdl2-image-dev libsdl2-mixer-dev 
+                     libsdl2-net-dev libsdl2-ttf-dev libxmu-dev libxi-dev freeglut3 freeglut3-dev -y
+
+sudo ldconfig
 
 ==========
 
-To install:
+To install NURBSurfer:
 
 mkdir NURBSurfer
 
